@@ -23,7 +23,7 @@ __**CNN Model**__
 ## CNN Model
 
 Fine tuning DenseNet201 Model to predict Cifar100 with accuracy =
-Technique used: Image Augmentation, Model Checkpoint, Early Stopping and ROnPlateou
+Technique used: Image Augmentation, Model Checkpoint, Early Stopping and ReduceLROnPlateau, RMSprop
 
 **Accuracy =**
 
