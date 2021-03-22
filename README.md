@@ -11,7 +11,7 @@ This project aims to predict the labels of the CIFAR-10 and CIFAR100 dataset. I 
 
 ## Cifar 10
 
-**Accuracy = 83%**
+**Accuracy = 83.8%**
 
 __**CNN Model**__
 
