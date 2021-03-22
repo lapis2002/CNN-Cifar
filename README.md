@@ -13,12 +13,13 @@ This project aims to predict the labels of the CIFAR-10 and CIFAR100 dataset. I 
 
 **Accuracy = 83.8%**
 
-__**CNN Model**__
+****CNN Model****
 
 ![CNN Model for CIFAR10](./Pictures/model_plot_cifar10.png?raw=true "CNN - CIFAR 10")
 
-
 ### Metric Graphs
+
+![Metric graph for CIFAR10](./Pictures/cifar10_metric.png?raw=true "Metric - CIFAR 10")
 
 ## CNN Model
 
@@ -28,9 +29,10 @@ Technique used: Image Augmentation, Model Checkpoint, Early Stopping and ReduceL
 
 **Accuracy = 83.55%**
 
-__**Fine tuned CNN Model**__
+****Fine tuned CNN Model****
 
 ![CNN Model for CIFAR100](./Pictures/model_plot_cifar100.png?raw=true "CNN - CIFAR 100")
 
 ### Metric Graphs
-![Metric graph for CIFAR100](./Pictures/metric_graph.png?raw=true "CNN - CIFAR 100")
+
+![Metric graph for CIFAR100](./Pictures/cifar100_metric.png?raw=true "Metric - CIFAR 100")
